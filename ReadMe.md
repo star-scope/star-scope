@@ -1,5 +1,5 @@
 # Hi, I'm Caleb.
-## Software Designer - Atlanta, GA
+## Software Designer - Billings, MT
 
 **Portfolio:** [starscope.design](https://starscope.design)
 
@@ -13,10 +13,12 @@ I am a Software Designer with a background in UI, Motion Graphics, Graphic Desig
 
 
 ### STACK
-**UX/UI Design** → Figma, Framer, Adobe XD
+**UX/UI Design** → Figma, Framer
 
 **Graphic Design** → Adobe Creative Cloud
 
 **Motion Graphics/Interaction Design** → Adobe Creative Cloud, Cinema 4D, Octane Render
 
 **Front End Development** → HTML, CSS, JavaScript, Typescript
+
+**AI** → Claude Code, ChatGPT
